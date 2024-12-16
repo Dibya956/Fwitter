@@ -13,3 +13,7 @@ Edit Profile Info
 Edit Cover Image and Profile Image
 Image Uploads using Cloudinary
 Send Notifications
+
+Demo account :
+ user name: QWER
+ password: 0321654
