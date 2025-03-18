@@ -51,20 +51,19 @@ Start the server
 
 ## Roadmap
 
-- Installing dependancy for backend.
+- Install dependencies for the backend.
 
-- Design RESTful api for it.
-
-- Integrate mongodb.
-
-- Start REACT project through Vite.
-
-- Integrate daisyui to it.
-
-- Add frontend components to it.
-
-- Integrate it to backend.
-
+- Design a RESTful API for seamless communication.
+  
+- Integrate MongoDB for data storage and management.
+  
+- Initialize the React project using Vite.
+  
+- Integrate DaisyUI for a modern and responsive UI.
+  
+- Develop and add essential frontend components.
+  
+- Connect the frontend with the backend for full functionality.
 
 ## Demo
 
